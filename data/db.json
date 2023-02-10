@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "post",
+      "body": "ko'rinish",
+      "author": "bekzod ganiyev",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "ganiyev@gmail.com",
+      "password": "$2a$10$i5vn07h3o09WeCq9JP9vAObSAWuor3Q0uNNpXQS4KsaE61S/blqe2",
+      "first_name": "bekzod",
+      "last_name": "ganiyev",
+      "id": 1
+    }
+  ]
+}
