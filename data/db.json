@@ -5,6 +5,18 @@
       "body": "ko'rinish",
       "author": "bekzod ganiyev",
       "id": 1
+    },
+    {
+      "title": "kitob o'qish",
+      "body": "yugurish",
+      "author": "vvv uuu",
+      "id": 2
+    },
+    {
+      "title": "erferfr",
+      "body": "erferfer",
+      "author": "vvv uuu",
+      "id": 3
     }
   ],
   "users": [
@@ -14,6 +26,13 @@
       "first_name": "bekzod",
       "last_name": "ganiyev",
       "id": 1
+    },
+    {
+      "email": "uew@mail.com",
+      "password": "$2a$10$/B8ew0ufbt5dagKlQidvWO02GKASKKyX1jeQ2mxvKU/FepLLgRfqi",
+      "first_name": "vvv",
+      "last_name": "uuu",
+      "id": 2
     }
   ]
 }
